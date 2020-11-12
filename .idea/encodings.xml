@@ -2,6 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-common-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-nacos-client3377" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-order83" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-customer-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway-9527" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-payment8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-payment9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-payment9002" charset="UTF-8" />
   </component>
 </project>

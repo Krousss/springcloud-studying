@@ -5,10 +5,7 @@ import com.rihua.springcloud.entity.Payment;
 import com.rihua.springcloud.service.PaymentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpRequest;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 
@@ -18,7 +15,7 @@ public class PaymentController {
     @Resource
     private PaymentService paymentService;
     @PostMapping(value = "/payment/addPayment")
-    public CommonResult addPayment(Payment payment){
+    public CommonResult addPayment(@RequestBody Payment payment){
         int result=paymentService.save(payment);
         log.info("****插入结果:" + result);
         if (result>0){
@@ -31,7 +28,6 @@ public class PaymentController {
     public CommonResult getPaymentByID(@PathVariable("id") Long id){
         Payment payment = paymentService.getPaymentById(id);
         log.info("****查询结果:" + payment);
-
         if(payment != null){
             return  new CommonResult(200,"查询成功",payment);
         } else {

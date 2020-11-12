@@ -8,10 +8,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-provider-payment8001" />
+        <module name="springcloud-config-nacos-client3377" />
+        <module name="springcloud-gateway-9527" />
+        <module name="springcloud-provider-payment9001" />
+        <module name="springcloud-common-api" />
+        <module name="springcloud-provider-payment9002" />
+        <module name="springcloud-consumer-order83" />
+        <module name="springcloud-customer-order80" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springcloud-payment-8001" target="1.8" />
+      <module name="springcloud-registy-nacos" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

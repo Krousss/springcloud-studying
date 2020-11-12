@@ -2,51 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e77da0b-da4f-4c0d-82bd-2bff599986c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-common-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-common-api/springcloud-common-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/springcloud-config-nacos-client3377.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/java/com/rihua/springcloud/NacosConfigMain3377.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/java/com/rihua/springcloud/controller/ConfigClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-consumer-order83/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-consumer-order83/springcloud-consumer-order83.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-consumer-order83/src/main/java/com/rihua/springcloud/Order83Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-consumer-order83/src/main/java/com/rihua/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-consumer-order83/src/main/java/com/rihua/springcloud/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-consumer-order83/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-customer-order80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-customer-order80/springcloud-customer-order80.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-customer-order80/src/main/java/com/rihua/springcloud/OrderMain80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-customer-order80/src/main/java/com/rihua/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-customer-order80/src/main/java/com/rihua/springcloud/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-customer-order80/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-gateway-9527/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9001/springcloud-provider-payment9001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9001/src/main/java/com/rihua/springcloud/Payment9001Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9001/src/main/java/com/rihua/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9002/springcloud-provider-payment9002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9002/src/main/java/com/rihua/springcloud/Payment9002Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9002/src/main/java/com/rihua/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-payment9002/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-provider-payment8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8001/src/main/java/com/rihua/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-provider-payment8001/src/main/java/com/rihua/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8001/src/main/java/com/rihua/springcloud/entity/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-common-api/src/main/java/com/rihua/springcloud/entity/CommonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8001/src/main/java/com/rihua/springcloud/entity/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-common-api/src/main/java/com/rihua/springcloud/entity/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8001/target/classes/com/rihua/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-provider-payment8001/target/classes/com/rihua/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8001/target/classes/com/rihua/springcloud/entity/CommonResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8001/target/classes/com/rihua/springcloud/entity/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-common-api/springcloud-common-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-nacos-client3377/springcloud-config-nacos-client3377.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-consumer-order83/springcloud-consumer-order83.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-customer-order80/springcloud-customer-order80.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-gateway-9527/springcloud-gateway-9527.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment9001/springcloud-provider-payment9001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment9002/springcloud-provider-payment9002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-registy-nacos/springcloud-registy-nacos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_test.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +60,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/sxucs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -269,12 +237,12 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@58912de7" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@1407b210" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@58912de7" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@d9c9015b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@1407b210" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@5a15f6ea" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
           <select />
@@ -298,6 +266,7 @@
       <workItem from="1604973225965" duration="8714000" />
       <workItem from="1604986139646" duration="12784000" />
       <workItem from="1605140705931" duration="13106000" />
+      <workItem from="1605159942603" duration="199000" />
     </task>
     <servers />
   </component>
